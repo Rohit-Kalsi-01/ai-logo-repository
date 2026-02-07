@@ -8,7 +8,7 @@ import {getFirestore} from 'firebase/firestore'
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCc7kWwpkk7ZpohfiSWrYx6W1S1oIHQlTQ",
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: "ai-logo-efdc2.firebaseapp.com",
   projectId: "ai-logo-efdc2",
   storageBucket: "ai-logo-efdc2.firebasestorage.app",
