@@ -1,18 +1,18 @@
 import Image from "next/image";
 
 const images = [
-     "/image/img13.png",
-     "/image/img12.png",
-  "/image/img11.png",
-  "/image/img1.png",
-  "/image/img2.png",
-  "/image/img3.png",
-  "/image/img4.png",
-  "/image/img5.png",
-  "/image/img6.png",
-  "/image/img7.png",
-  "/image/img8.png",
-  "/image/img9.png",
+     "/Image/img13.png",
+     "/Image/img12.png",
+  "/Image/img11.png",
+  "/Image/img1.png",
+  "/Image/img2.png",
+  "/Image/img3.png",
+  "/Image/img4.png",
+  "/Image/img5.png",
+  "/Image/img6.png",
+  "/Image/img7.png",
+  "/Image/img8.png",
+  "/Image/img9.png",
 
 ]
 
